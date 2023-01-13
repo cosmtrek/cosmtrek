@@ -1,5 +1,11 @@
-### :cn: Rick Yu
+## Rick Yu
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cosmtrek&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+👋 I love making open-source projects and cool products, sharing with others, and enjoying the feeling of creativity.
 
-A life hacker.
+## Open Source
+
+- [Air](https://github.com/cosmtrek/air) - Live reload for Go apps
+
+## Products
+
+- [DevBase](https://devbase.fyi) - Inspire your next project
