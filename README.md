@@ -8,6 +8,7 @@ I love making open-source projects and cool products, sharing with others, and e
 
 ### 🔮 Hobby products
 
+- [BriefGPT](https://briefgpt.xyz) - AI papers brief
 - [DevBase](https://devbase.fyi) - Inspire your next project
 
 ### 🌍 Find me
