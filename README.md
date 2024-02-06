@@ -6,12 +6,11 @@ I love making open-source projects and cool products, sharing with others, and e
 
 - [Air](https://github.com/cosmtrek/air) - Live reload for Go apps
 
-### 🔮 Hobby products
+### 🔮 Indie products
 
 - [BriefGPT](https://briefgpt.xyz) - AI papers brief
 - [DevBase](https://devbase.fyi) - Inspire your next project
 
 ### 🌍 Find me
 
-- [Blog](https://typefuture.com)
 - [Twitter](https://twitter.com/cosmtrek)
