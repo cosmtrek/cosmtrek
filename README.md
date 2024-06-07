@@ -4,7 +4,7 @@ I love making open-source projects and cool products, sharing with others, and e
 
 ### 🌟 Open Source projects
 
-- [Air](https://github.com/cosmtrek/air) - Live reload for Go apps
+- [Air](https://github.com/air-verse/air) - Live reload for Go apps
 
 ### 🔮 Indie products
 
@@ -13,4 +13,4 @@ I love making open-source projects and cool products, sharing with others, and e
 
 ### 🌍 Find me
 
-- [Twitter](https://twitter.com/cosmtrek)
+- [X](https://x.com/cosmtrek)
